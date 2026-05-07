@@ -1,0 +1,339 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Binary Trees Assignment",
+            "subject": "Computer Sci",
+            "priority": "High",
+            "due": "13/06/2026 09:00",
+            "done": true
+        },
+        {
+            "id": 2,
+            "title": "Python Sorting Algorithms",
+            "subject": "Computer Sci",
+            "priority": "Medium",
+            "due": "12/05/2026 23:59",
+            "done": false
+        },
+        {
+            "id": 3,
+            "title": "Refraction & Lenses Worksheet",
+            "subject": "Physics",
+            "priority": "Low",
+            "due": "18/06/2026 11:00",
+            "done": false
+        },
+        {
+            "id": 4,
+            "title": "Macbeth Essay Draft",
+            "subject": "English",
+            "priority": "High",
+            "due": "27/06/2026 15:00",
+            "done": false
+        },
+        {
+            "id": 5,
+            "title": "Flowchart for Game Project",
+            "subject": "Computer Sci",
+            "priority": "Low",
+            "due": "22/05/2026 23:59",
+            "done": false
+        },
+        {
+            "id": 6,
+            "title": "Organic Chemistry Notes",
+            "subject": "Chemistry",
+            "priority": "Low",
+            "due": "04/05/2026 12:00",
+            "done": true
+        },
+        {
+            "id": 7,
+            "title": "Electricity & Circuits Lab",
+            "subject": "Physics",
+            "priority": "Medium",
+            "due": "24/06/2026 17:00",
+            "done": false
+        },
+        {
+            "id": 8,
+            "title": "Calculus Problem Set 4",
+            "subject": "Maths",
+            "priority": "High",
+            "due": "17/06/2026 12:00",
+            "done": false
+        },
+        {
+            "id": 9,
+            "title": "French Writing Coursework Draft",
+            "subject": "French",
+            "priority": "High",
+            "due": "07/05/2026 17:00",
+            "done": false
+        },
+        {
+            "id": 10,
+            "title": "Ecosystems Case Study",
+            "subject": "Geography",
+            "priority": "Low",
+            "due": "13/05/2026 17:00",
+            "done": false
+        },
+        {
+            "id": 11,
+            "title": "Trigonometry Worksheet",
+            "subject": "Maths",
+            "priority": "Low",
+            "due": "15/06/2026 12:00",
+            "done": true
+        },
+        {
+            "id": 12,
+            "title": "Attachment Theory Summary",
+            "subject": "Psychology",
+            "priority": "Low",
+            "due": "30/06/2026 10:00",
+            "done": false
+        },
+        {
+            "id": 13,
+            "title": "Sketchbook Submission",
+            "subject": "Art",
+            "priority": "Low",
+            "due": "04/06/2026 09:00",
+            "done": false
+        },
+        {
+            "id": 14,
+            "title": "Lab Report: Titration",
+            "subject": "Chemistry",
+            "priority": "Medium",
+            "due": "11/06/2026 09:00",
+            "done": true
+        },
+        {
+            "id": 15,
+            "title": "Research: Milgram Experiment",
+            "subject": "Psychology",
+            "priority": "Medium",
+            "due": "28/04/2026 11:00",
+            "done": false
+        },
+        {
+            "id": 16,
+            "title": "French Oral Presentation",
+            "subject": "French",
+            "priority": "High",
+            "due": "21/06/2026 23:59",
+            "done": false
+        },
+        {
+            "id": 17,
+            "title": "Map Skills Test Revision",
+            "subject": "Geography",
+            "priority": "Medium",
+            "due": "07/05/2026 17:00",
+            "done": false
+        },
+        {
+            "id": 18,
+            "title": "Reaction Rates Experiment Write-up",
+            "subject": "Chemistry",
+            "priority": "High",
+            "due": "25/05/2026 14:00",
+            "done": false
+        },
+        {
+            "id": 19,
+            "title": "Photosynthesis Diagram & Notes",
+            "subject": "Biology",
+            "priority": "Low",
+            "due": "22/06/2026 15:00",
+            "done": false
+        },
+        {
+            "id": 20,
+            "title": "Cell Division Quiz Prep",
+            "subject": "Biology",
+            "priority": "High",
+            "due": "18/05/2026 09:00",
+            "done": false
+        },
+        {
+            "id": 21,
+            "title": "Statistics Coursework",
+            "subject": "Maths",
+            "priority": "High",
+            "due": "02/07/2026 15:00",
+            "done": false
+        },
+        {
+            "id": 22,
+            "title": "River Erosion Essay",
+            "subject": "Geography",
+            "priority": "Medium",
+            "due": "25/04/2026 11:00",
+            "done": false
+        },
+        {
+            "id": 23,
+            "title": "Calculus: Integration by Parts",
+            "subject": "Maths",
+            "priority": "Medium",
+            "due": "20/06/2026 16:00",
+            "done": false
+        },
+        {
+            "id": 24,
+            "title": "Essay: Causes of WW1",
+            "subject": "History",
+            "priority": "High",
+            "due": "26/05/2026 16:00",
+            "done": false
+        },
+        {
+            "id": 25,
+            "title": "Listening Exam Practice",
+            "subject": "Music",
+            "priority": "Low",
+            "due": "27/06/2026 18:00",
+            "done": false
+        },
+        {
+            "id": 26,
+            "title": "Timeline Poster: Industrial Revolution",
+            "subject": "History",
+            "priority": "Low",
+            "due": "30/04/2026 11:00",
+            "done": false
+        },
+        {
+            "id": 27,
+            "title": "Read: Of Mice and Men Ch.5-7",
+            "subject": "English",
+            "priority": "Low",
+            "due": "04/06/2026 14:00",
+            "done": false
+        },
+        {
+            "id": 28,
+            "title": "Composition: String Quartet",
+            "subject": "Music",
+            "priority": "Medium",
+            "due": "04/06/2026 12:00",
+            "done": false
+        },
+        {
+            "id": 29,
+            "title": "Poetry Analysis: Ozymandias",
+            "subject": "English",
+            "priority": "Medium",
+            "due": "04/06/2026 23:59",
+            "done": false
+        },
+        {
+            "id": 30,
+            "title": "Grammar Exercises p.34-40",
+            "subject": "French",
+            "priority": "Low",
+            "due": "26/04/2026 23:59",
+            "done": false
+        },
+        {
+            "id": 31,
+            "title": "Final Piece Planning",
+            "subject": "Art",
+            "priority": "Medium",
+            "due": "03/06/2026 12:00",
+            "done": false
+        },
+        {
+            "id": 32,
+            "title": "Source Evaluation: Cold War",
+            "subject": "History",
+            "priority": "Low",
+            "due": "29/05/2026 18:00",
+            "done": false
+        },
+        {
+            "id": 33,
+            "title": "Comparative Essay: 1984 vs BNW",
+            "subject": "English",
+            "priority": "High",
+            "due": "02/06/2026 09:00",
+            "done": false
+        },
+        {
+            "id": 34,
+            "title": "Database Design ERD",
+            "subject": "Computer Sci",
+            "priority": "Medium",
+            "due": "04/05/2026 17:00",
+            "done": false
+        },
+        {
+            "id": 35,
+            "title": "Mock Exam Revision: Mechanics",
+            "subject": "Physics",
+            "priority": "High",
+            "due": "27/04/2026 10:00",
+            "done": true
+        },
+        {
+            "id": 36,
+            "title": "Memory & Cognition Essay",
+            "subject": "Psychology",
+            "priority": "High",
+            "due": "14/06/2026 17:00",
+            "done": false
+        },
+        {
+            "id": 37,
+            "title": "Cold War Timeline",
+            "subject": "History",
+            "priority": "Medium",
+            "due": "23/06/2026 11:00",
+            "done": false
+        },
+        {
+            "id": 38,
+            "title": "Waves Revision Notes",
+            "subject": "Physics",
+            "priority": "Medium",
+            "due": "21/06/2026 15:00",
+            "done": false
+        },
+        {
+            "id": 39,
+            "title": "Genetics Past Papers",
+            "subject": "Biology",
+            "priority": "High",
+            "due": "12/05/2026 14:00",
+            "done": false
+        },
+        {
+            "id": 40,
+            "title": "Lino Print Final Design",
+            "subject": "Art",
+            "priority": "High",
+            "due": "03/07/2026 14:00",
+            "done": false
+        }
+    ],
+    "subjects": [
+        "General",
+        "Maths",
+        "English",
+        "History",
+        "Physics",
+        "Chemistry",
+        "Biology",
+        "Computer Sci",
+        "Geography",
+        "French",
+        "Art",
+        "Music",
+        "Psychology"
+    ]
+}
